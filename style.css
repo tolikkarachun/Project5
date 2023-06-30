@@ -385,7 +385,7 @@ img {
   gap: 10px;
   display: inline-flex;
 }
-.in__footer {
+.footer__in {
   color: #2b2b2b;
   font-size: 24px;
   font-weight: 400;
@@ -396,7 +396,7 @@ img {
   right: 133px;
   padding-top: 41px;
 }
-.twitter__footer {
+.footer__twitter {
   color: #2b2b2b;
   font-size: 24px;
   font-weight: 400;
@@ -407,7 +407,7 @@ img {
   right: 93px;
   padding-top: 41px;
 }
-.facebook__footer {
+.footer__facebook {
   color: #2b2b2b;
   font-size: 24px;
   font-weight: 400;
@@ -418,7 +418,7 @@ img {
   right: 53px;
   padding-top: 41px;
 }
-.instagram__footer {
+.footer__instagram {
   color: #2b2b2b;
   font-size: 24px;
   font-weight: 400;
